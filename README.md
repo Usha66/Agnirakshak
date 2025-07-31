@@ -77,7 +77,12 @@ jupyter notebook firebot.ipynb
 * 💡 **Theme:** Smart Safety and Emergency Solutions
 ---
 
-## 📄 License
+## Contributing
 
-This project is for educational and demonstration purposes only.
-You are welcome to fork, explore, and learn!
+Contributions are welcome! Feel free to fork the project and create pull requests to improve FashChat.
+
+## License
+
+This project is licensed under the MIT License. See `LICENSE` for details.
+
+---
