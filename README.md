@@ -75,30 +75,12 @@ jupyter notebook firebot.ipynb
 * 🎯 **Event:** Honeywell Hackathon 2024
 * 🥈 **Achievement:** First Runner-Up
 * 💡 **Theme:** Smart Safety and Emergency Solutions
-
----
-
-## 👥 Team 7 – Fire Fortifiers
-
-* **Usha Kiran Mayi** – [@Usha66](https://github.com/Usha66)
-* (Add other team members here if applicable)
-
 ---
 
 ## 📄 License
 
 This project is for educational and demonstration purposes only.
 You are welcome to fork, explore, and learn!
-
----
-
-## 📸 Screenshots
-
-*Add screenshots or demo GIF here (like `AGNIRAKSHAK.gif`) to showcase UI and chatbot.*
-
-```
-
----
 
 Let me know once you’ve added and pushed it. I can help you polish your GitHub repo page or post a LinkedIn summary to highlight your win! 🌟
 ```
