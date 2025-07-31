@@ -81,6 +81,3 @@ jupyter notebook firebot.ipynb
 
 This project is for educational and demonstration purposes only.
 You are welcome to fork, explore, and learn!
-
-Let me know once you’ve added and pushed it. I can help you polish your GitHub repo page or post a LinkedIn summary to highlight your win! 🌟
-```
