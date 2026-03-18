@@ -15,11 +15,13 @@
 body {
   margin: 0;
   padding: 0;
-  /* background-image: url("https://img.freepik.com/free-vector/hand-drawn-firefighters-putting-out-fire_23-2149140831.jpg?w=1380&t=st=1713169033~exp=1713169633~hmac=7e8680e102fabc350951c4b216bf75dcf04bdca2f46043e539f632ba0e5d4928"); /* Replace 'path/to/your/image.jpg' with the path to your image */
-  /* background-image: url("C:\Users\kriti\OneDrive\Desktop\Hackathon\fire\fire\AGNIRAKSHAK (1).png"); */
-  background-image: url("D:\code\fire\AGNIRAKSHAK.gif");
-  background-size: cover;
-  background-position: center;
+ /* background-image: url("https://img.freepik.com/free-vector/hand-drawn-firefighters-putting-out-fire_23-2149140831.jpg?w=1380&t=st=1713169033~exp=1713169633~hmac=7e8680e102fabc350951c4b216bf75dcf04bdca2f46043e539f632ba0e5d4928"); */
+/* background-image: url("C:/Users/kriti/OneDrive/Desktop/Hackathon/fire/fire/AGNIRAKSHAK (1).png"); */
+/* background-image: url("D:/code/fire/AGNIRAKSHAK.gif"); */
+
+background-size: cover;
+background-position: center;
+
   font-family: Arial, sans-serif; /* Example font family */
 }
 .chatsection {
